@@ -1,2 +1,2 @@
-# TouchingAlgorithm
-This is an algorithm that checks whether or not an object is touching another object.
+# p5.play-boilerplate
+Boiler plate for p5.play
